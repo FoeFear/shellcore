@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 3de846021304b3346a7670c5f7bd946f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6912804375749561211
+    second: Fake Parts_0
+  - first:
+      213: -8340263134218479114
+    second: Fake Parts_1
+  - first:
+      213: 1404831938177853988
+    second: Fake Parts_2
+  - first:
+      213: -994110604424352240
+    second: Fake Parts_3
+  - first:
+      213: 7599633109565020583
+    second: Fake Parts_4
+  - first:
+      213: -2851626188437810888
+    second: Fake Parts_5
+  - first:
+      213: -1530887731437109576
+    second: Fake Parts_6
+  - first:
+      213: 2205581094269767954
+    second: Fake Parts_7
+  - first:
+      213: 3982979103080384848
+    second: Fake Parts_8
+  - first:
+      213: 4010417921866687872
+    second: Fake Parts_9
+  - first:
+      213: -5239551277194290162
+    second: Fake Parts_10
+  - first:
+      213: 2719989515154842283
+    second: Fake Parts_11
+  - first:
+      213: 254315673567192799
+    second: Fake Parts_12
+  - first:
+      213: 8973251676374140554
+    second: Fake Parts_13
+  - first:
+      213: 9097848867528689868
+    second: Fake Parts_14
+  - first:
+      213: 1569773645321525387
+    second: Fake Parts_15
+  - first:
+      213: -4598361088540593532
+    second: Fake Parts_16
+  - first:
+      213: -2170570142146452232
+    second: Fake Parts_17
+  - first:
+      213: -6516770040745648802
+    second: Fake Parts_18
+  - first:
+      213: 6514569776802253233
+    second: Fake Parts_19
+  - first:
+      213: -2025177045199503931
+    second: Fake Parts_20
+  - first:
+      213: 2747551083697531419
+    second: Fake Parts_21
+  - first:
+      213: -4264427264706890574
+    second: Fake Parts_22
+  - first:
+      213: 7064084851143436862
+    second: Fake Parts_23
+  - first:
+      213: 6478892599732784550
+    second: Fake Parts_24
+  - first:
+      213: -4965178852238101323
+    second: Fake Parts_25
+  - first:
+      213: 1755416121663105528
+    second: Fake Parts_26
+  - first:
+      213: 5990676003779378726
+    second: Fake Parts_27
+  - first:
+      213: 6022944193301871999
+    second: Fake Parts_28
+  - first:
+      213: 549124739378191244
+    second: Fake Parts_29
+  - first:
+      213: 6482244273591961946
+    second: Fake Parts_30
+  - first:
+      213: -1548785108613510444
+    second: Fake Parts_31
+  - first:
+      213: 1974207253116940389
+    second: Fake Parts_32
+  - first:
+      213: -341973754465059793
+    second: Fake Parts_33
+  - first:
+      213: -4419897625589758366
+    second: Fake Parts_34
+  - first:
+      213: 3642720029781443950
+    second: Fake Parts_35
+  - first:
+      213: 3260816635117048983
+    second: Fake Parts_36
+  - first:
+      213: 3405420299176334067
+    second: Fake Parts_37
+  - first:
+      213: 5962578920472482300
+    second: Fake Parts_38
+  - first:
+      213: 4610322722854848710
+    second: Fake Parts_39
+  - first:
+      213: 1786912327820617036
+    second: Fake Parts_40
+  - first:
+      213: -1906303349954466173
+    second: Fake Parts_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fake Parts_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b815244f63fef50800000000000000
+      internalID: 6912804375749561211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 140
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91f973ede614c80800000000000000
+      internalID: -8340263134218479114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae6346437fe7310800000000000000
+      internalID: 1404831938177853988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e66db1ca53432f0800000000000000
+      internalID: -994110604424352240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 62
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a99bee6c02577960800000000000000
+      internalID: 7599633109565020583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83196f5171dfc68d0800000000000000
+      internalID: -2851626188437810888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 22
+        width: 24
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beffa028b131cae0800000000000000
+      internalID: -1530887731437109576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211544fc15ccb9e10800000000000000
+      internalID: 2205581094269767954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05909ea3462664730800000000000000
+      internalID: 3982979103080384848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08569b11addd7a730800000000000000
+      internalID: 4010417921866687872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 106
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd36cafdf5947b0800000000000000
+      internalID: -5239551277194290162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 34
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2679b8d085fb520800000000000000
+      internalID: 2719989515154842283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd669c7f1c2878300800000000000000
+      internalID: 254315673567192799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 15
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86857a7bd4678c70800000000000000
+      internalID: 8973251676374140554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8cc31b75d024e70800000000000000
+      internalID: 9097848867528689868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 224
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d82b30d4f8c510800000000000000
+      internalID: 1569773645321525387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 299
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4823f8004f65f20c0800000000000000
+      internalID: -4598361088540593532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 352
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4aa45b4f590e1e0800000000000000
+      internalID: -2170570142146452232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 437
+        width: 24
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d927edc28cf85a0800000000000000
+      internalID: -6516770040745648802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 532
+        width: 31
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b94bc242b6686a50800000000000000
+      internalID: 6514569776802253233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_20
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 531
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdbb9d053025e3e0800000000000000
+      internalID: -2025177045199503931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 37
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ae70a4723412620800000000000000
+      internalID: 2747551083697531419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 277
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4b7a42ff5b1d4c0800000000000000
+      internalID: -4264427264706890574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 226
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a6f97bebba80260800000000000000
+      internalID: 7064084851143436862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 99
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adcaf82e76a9e950800000000000000
+      internalID: 6478892599732784550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 12
+        width: 53
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4f01af324281bb0800000000000000
+      internalID: -4965178852238101323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 159
+        width: 84
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f929bc79ad7c5810800000000000000
+      internalID: 1755416121663105528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 355
+        width: 109
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef9b1e518232350800000000000000
+      internalID: 5990676003779378726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 524
+        width: 131
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d72c735dbc59350800000000000000
+      internalID: 6022944193301871999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 526
+        width: 134
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b14048a02ee9700800000000000000
+      internalID: 549124739378191244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 621
+        width: 168
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5942ca82de85f950800000000000000
+      internalID: 6482244273591961946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_31
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 490
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4da7462c918ae0800000000000000
+      internalID: -1548785108613510444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_32
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 496
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f803790bc56b10800000000000000
+      internalID: 1974207253116940389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_33
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 587
+        width: 91
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c7a92aea0114bf0800000000000000
+      internalID: -341973754465059793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 390
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2664123f68e59a2c0800000000000000
+      internalID: -4419897625589758366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 246
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65c25f219a8d8230800000000000000
+      internalID: 3642720029781443950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 77
+        width: 68
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79416ddf37fb04d20800000000000000
+      internalID: 3260816635117048983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25f4b28bb724f20800000000000000
+      internalID: 3405420299176334067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_38
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 34
+        width: 143
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf19ef3efe55fb250800000000000000
+      internalID: 5962578920472482300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 15
+        width: 81
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8cca307182bff30800000000000000
+      internalID: 4610322722854848710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_40
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 249
+        width: 147
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45a3807b436cc810800000000000000
+      internalID: 1786912327820617036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fake Parts_41
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 212
+        width: 138
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ea3d704337b85e0800000000000000
+      internalID: -1906303349954466173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
