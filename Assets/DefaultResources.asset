@@ -611,3 +611,7 @@ MonoBehaviour:
     obj: {fileID: 2473349850264944323, guid: 79cf8987ef2e6b94a952748d5a3d0aeb, type: 3}
   - ID: fakepartsparticles
     obj: {fileID: 5907327277448150338, guid: e132438977ccfe84cb41ed31d9d94875, type: 3}
+  - ID: RectangleEffectScript_skin2
+    obj: {fileID: 2100000, guid: 283e6d55e5a48b84bb8ebac910b9a8ed, type: 2}
+  - ID: RectangleEffectScript_skin3
+    obj: {fileID: 2100000, guid: b0339506effab6642b2cb4e066e68c50, type: 2}
