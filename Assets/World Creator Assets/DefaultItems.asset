@@ -898,3 +898,18 @@ MonoBehaviour:
       waypoints: []
     ID: 
     dimension: 0
+  - name: Snowflake Particles
+    obj: {fileID: 2473349850264944323, guid: dca0dfd54140ed649b177db27e601683, type: 3}
+    type: 3
+    assetID: snowflakeparticles
+    shellcoreJSON: 
+    vendingID: 
+    isTarget: 0
+    faction: 0
+    placeablesIndex: 0
+    pos: {x: 0, y: 0, z: 0}
+    rotation: 0
+    patrolPath:
+      waypoints: []
+    ID: 
+    dimension: 0

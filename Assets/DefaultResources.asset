@@ -615,3 +615,5 @@ MonoBehaviour:
     obj: {fileID: 2100000, guid: 283e6d55e5a48b84bb8ebac910b9a8ed, type: 2}
   - ID: RectangleEffectScript_skin3
     obj: {fileID: 2100000, guid: b0339506effab6642b2cb4e066e68c50, type: 2}
+  - ID: snowflakeparticles
+    obj: {fileID: 2473349850264944323, guid: dca0dfd54140ed649b177db27e601683, type: 3}
