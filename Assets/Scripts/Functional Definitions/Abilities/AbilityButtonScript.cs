@@ -125,7 +125,7 @@ public class AbilityButtonScript : MonoBehaviour, IPointerClickHandler, IPointer
 
     void ReflectTier(Ability ability)
     {
-        if (ability.GetTier() > 0 && ability.GetTier() <= 3)
+        if (ability.GetTier() > 0 && ability.GetTier() <= 6)
         {
             abilityTier.enabled = true;
             abilityTier.sprite = ResourceManager.GetAsset<Sprite>("AbilityTier" + ability.GetTier());

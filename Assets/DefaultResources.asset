@@ -619,3 +619,9 @@ MonoBehaviour:
     obj: {fileID: 2473349850264944323, guid: dca0dfd54140ed649b177db27e601683, type: 3}
   - ID: flyparticles
     obj: {fileID: 5907327277448150338, guid: 3aef60c8a28e76b44b5e69e06590e071, type: 3}
+  - ID: AbilityTier4
+    obj: {fileID: 21300000, guid: c8064166097b0b64b830e7d142acb2a3, type: 3}
+  - ID: AbilityTier5
+    obj: {fileID: 21300000, guid: b009c49c6d55b2f4ba4e3363bd9128b4, type: 3}
+  - ID: AbilityTier6
+    obj: {fileID: 21300000, guid: 70f1a0a5dcbdecc4eaf5ee78f6eebc95, type: 3}
