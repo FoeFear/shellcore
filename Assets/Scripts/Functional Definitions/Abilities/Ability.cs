@@ -59,7 +59,7 @@ public abstract class Ability : MonoBehaviour
 
     public virtual void SetTier(int abilityTier)
     {
-        if (abilityTier > 6 || abilityTier < 0)
+        if (abilityTier > 10 || abilityTier < 0)
         {
             Debug.LogWarning("An ability tier was set out of bounds! number: " + abilityTier);
         }

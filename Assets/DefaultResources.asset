@@ -625,3 +625,11 @@ MonoBehaviour:
     obj: {fileID: 21300000, guid: b009c49c6d55b2f4ba4e3363bd9128b4, type: 3}
   - ID: AbilityTier6
     obj: {fileID: 21300000, guid: 70f1a0a5dcbdecc4eaf5ee78f6eebc95, type: 3}
+  - ID: AbilityTier7
+    obj: {fileID: 21300000, guid: c151123d1b0712c49a5ea90140013ed5, type: 3}
+  - ID: AbilityTier8
+    obj: {fileID: 21300000, guid: 2b5b2255569dad742944ae700317716e, type: 3}
+  - ID: AbilityTier9
+    obj: {fileID: 21300000, guid: e8e6ee5edc7a9374fae03ed75f5389fb, type: 3}
+  - ID: AbilityTier10
+    obj: {fileID: 21300000, guid: 61c4b6cf659356546a9165cdb0db7478, type: 3}
