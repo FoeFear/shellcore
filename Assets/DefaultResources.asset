@@ -633,3 +633,5 @@ MonoBehaviour:
     obj: {fileID: 21300000, guid: e8e6ee5edc7a9374fae03ed75f5389fb, type: 3}
   - ID: AbilityTier10
     obj: {fileID: 21300000, guid: 61c4b6cf659356546a9165cdb0db7478, type: 3}
+  - ID: ashesparticles
+    obj: {fileID: 2473349850264944323, guid: de6cc2d356d5f68448ed54a2a03d82bb, type: 3}
