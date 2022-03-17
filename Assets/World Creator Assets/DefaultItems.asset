@@ -823,10 +823,40 @@ MonoBehaviour:
       waypoints: []
     ID: 
     dimension: 0
+  - name: Ash Particles
+    obj: {fileID: 2473349850264944323, guid: de6cc2d356d5f68448ed54a2a03d82bb, type: 3}
+    type: 3
+    assetID: ashparticles
+    shellcoreJSON: 
+    vendingID: 
+    isTarget: 0
+    faction: 0
+    placeablesIndex: 0
+    pos: {x: 0, y: 0, z: 0}
+    rotation: 0
+    patrolPath:
+      waypoints: []
+    ID: 
+    dimension: 0
   - name: Asteroid Particles
     obj: {fileID: 5907327277448150338, guid: 16a86ec307cfd0145931203c8a57c814, type: 3}
     type: 3
     assetID: asteroidparticles
+    shellcoreJSON: 
+    vendingID: 
+    isTarget: 0
+    faction: 0
+    placeablesIndex: 0
+    pos: {x: 0, y: 0, z: 0}
+    rotation: 0
+    patrolPath:
+      waypoints: []
+    ID: 
+    dimension: 0
+  - name: Bubble Particles
+    obj: {fileID: 2473349850264944323, guid: e3066b014217bf742b2800ee750face7, type: 3}
+    type: 3
+    assetID: bubbleparticles
     shellcoreJSON: 
     vendingID: 
     isTarget: 0
@@ -917,6 +947,21 @@ MonoBehaviour:
     obj: {fileID: 2473349850264944323, guid: dca0dfd54140ed649b177db27e601683, type: 3}
     type: 3
     assetID: snowflakeparticles
+    shellcoreJSON: 
+    vendingID: 
+    isTarget: 0
+    faction: 0
+    placeablesIndex: 0
+    pos: {x: 0, y: 0, z: 0}
+    rotation: 0
+    patrolPath:
+      waypoints: []
+    ID: 
+    dimension: 0
+  - name: Star Particles
+    obj: {fileID: 5907327277448150338, guid: 137b4ccd696eb06428279c6bb50a0081, type: 3}
+    type: 3
+    assetID: starparticles
     shellcoreJSON: 
     vendingID: 
     isTarget: 0
