@@ -43,8 +43,7 @@ public enum AbilityID
     Flak,
     Rocket,
     YardWarp,
-    Unload,
-    EMP
+    Unload
 }
 
 public static class AbilityUtilities
@@ -100,7 +99,6 @@ public static class AbilityUtilities
             case 37:
             case 38:
             case 39:
-            case 42:
                 return AbilityHandler.AbilityTypes.Weapons;
             case 1:
             case 2:
@@ -229,8 +227,6 @@ public static class AbilityUtilities
                 return "Warps your currently held part directly into your inventory.";
             case 41:
                 return $"Temporarily reduces Global Cooldown by {Mathf.Min(tier, 1)}/{Mathf.Min(tier, 1) + 1}.";
-            case 42:
-                return $"Instant attack that deals and drains {EMP.empDamage * tier} damage and energy.";
             default:
                 return "Description unset";
         }
@@ -339,8 +335,6 @@ public static class AbilityUtilities
                 }
             case 40:
                 return "ability_indicator_yard_warp";
-            case 42:
-                return "emp_shooter_sprite";
             default:
                 return "ability_indicator";
         }
@@ -438,8 +432,6 @@ public static class AbilityUtilities
                 return "Yard Warp";
             case 41:
                 return "Unload";
-            case 42:
-                return "EMP";
             default:
                 return "Name unset";
         }
@@ -616,9 +608,6 @@ public static class AbilityUtilities
                 break;
             case 41:
                 ability = obj.AddComponent<Unload>();
-                break;
-            case 42:
-                ability = obj.AddComponent<EMP>();
                 break;
         }
 

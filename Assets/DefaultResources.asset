@@ -641,9 +641,3 @@ MonoBehaviour:
     obj: {fileID: 2473349850264944323, guid: e3066b014217bf742b2800ee750face7, type: 3}
   - ID: AbilitySprite16
     obj: {fileID: 21300000, guid: 61dd13f7f3dcc4140952bb98f976a1b2, type: 3}
-  - ID: emp_shooter_sprite
-    obj: {fileID: 21300000, guid: 5bc35474d90a4034db55af7081eeb50e, type: 3}
-  - ID: AbilitySprite42
-    obj: {fileID: 21300000, guid: c28990011ed7cb449a0942ddf28b0aa2, type: 3}
-  - ID: clip_emp
-    obj: {fileID: 8300000, guid: 9e174542003196242a98b3159bcdfa60, type: 3}
