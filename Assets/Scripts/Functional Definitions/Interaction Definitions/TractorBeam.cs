@@ -262,7 +262,7 @@ public class TractorBeam : MonoBehaviour
                 lineRenderer.enabled = (newTarget != null);
             }
             
-            if (target && (!owner.isTractorSwitched || !target.GetComponent<Entity>())
+            if (target && (!owner.isTractorSwitched || !target.GetComponent<Entity>()))
             {
                 target.RemoveDrag();
             }
