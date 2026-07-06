@@ -183,4 +183,11 @@ public class FactionManager : MonoBehaviour
             return instance.factions[faction].relations;
         return -1;
     }
+
+    public static Faction GetFaction(int faction)
+    {
+        if (FactionExists(faction))
+            return instance.factions[faction];
+        return null;
+    }
 }

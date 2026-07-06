@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -152,6 +153,10 @@ public class RelationsGrid : MaskableGraphic, IPointerMoveHandler, IPointerClick
             int id = _factionIDs[i];
             FactionManager.SetFactionRelations(id, relations[i]);
         }
+        if (WaveBuilder.instance)
+            WaveBuilder.instance.UpdateFactions();
+        WriteFactionData();
+
         OnRelationsChanged?.Invoke();
     }
 
@@ -175,9 +180,9 @@ public class RelationsGrid : MaskableGraphic, IPointerMoveHandler, IPointerClick
         {
             for (int j = 0; j < _existingFactionCount; j++)
             {
-                int idy = _factionIDs[j];
-                var color = ((relations[i] & (1 << idy)) != 0) ? alliedColor : enemyColor;
-                var hoverColor = ((relations[i] & (1 << idy)) != 0) ? alliedHoverColor : enemyHoverColor;
+                int idy = _factionIDs[i];
+                var color = ((relations[j] & (1 << idy)) != 0) ? alliedColor : enemyColor;
+                var hoverColor = ((relations[j] & (1 << idy)) != 0) ? alliedHoverColor : enemyHoverColor;
                 if (i == mouseX || j == mouseY)
                     color = hoverColor;
                 var tileColor = (i == mouseX || j == mouseY) ? highlightColor : lineColor;
@@ -229,8 +234,8 @@ public class RelationsGrid : MaskableGraphic, IPointerMoveHandler, IPointerClick
         int y = (int)(localPos.y / CellSize);
         if (x < _existingFactionCount && y < _existingFactionCount && x >= 0 && y >= 0)
         {
-            int yid = _factionIDs[y];
-            relations[x] ^= (1 << yid);
+            int xid = _factionIDs[x];
+            relations[y] ^= (1 << xid);
             UpdateGeometry();
             ShowRelationValues();
         }
@@ -240,5 +245,32 @@ public class RelationsGrid : MaskableGraphic, IPointerMoveHandler, IPointerClick
     {
         mouseX = mouseY = -1;
         UpdateGeometry();
+    }
+
+    public static void WriteFactionData()
+    {
+        if (!FactionManager.Exists)
+        {
+            Debug.LogError("FactionManager does not exist. Cannot write relations to file.");
+            return;
+        }
+        if (!File.Exists(System.IO.Path.Combine(Application.streamingAssetsPath, "ResourceDataPlaceholder.txt")))
+        {
+            File.Create(System.IO.Path.Combine(Application.streamingAssetsPath, "ResourceDataPlaceholder.txt")).Dispose();
+        }
+        Directory.CreateDirectory(System.IO.Path.Combine(Application.streamingAssetsPath, "FactionPlaceholder"));
+
+        for (int i = 0; i < FactionManager.FactionArrayLength; i++)
+        {
+            if (FactionManager.FactionExists(i))
+            {
+                var faction = FactionManager.GetFaction(i);
+                File.WriteAllText(System.IO.Path.Combine(
+                        System.IO.Path.Combine(Application.streamingAssetsPath, "FactionPlaceholder"), $"{faction.factionName}-{faction.ID}.json"),
+                    JsonUtility.ToJson(faction)
+                );
+            }
+        }
+
     }
 }
