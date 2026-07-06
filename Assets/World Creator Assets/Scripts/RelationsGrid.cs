@@ -115,6 +115,12 @@ public class RelationsGrid : MaskableGraphic, IPointerMoveHandler, IPointerClick
         Debug.Log("RelationsGrid initialized with " + _existingFactionCount + " factions.");
     }
 
+    protected override void OnDestroy()
+    {
+        base.OnDestroy();
+        OnRelationsChanged = null;
+    }
+
     // Generate ui components, add text onto text fields
     public void ShowRelationValues()
     {
