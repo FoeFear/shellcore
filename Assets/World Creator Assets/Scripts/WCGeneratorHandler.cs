@@ -557,6 +557,12 @@ public class WCGeneratorHandler : MonoBehaviour
             lines.Add("factions:");
             foreach (var faction in factionManager.factions)
             {
+                // avoid default factions
+                if (FactionManager.defaultFactions.Contains(faction))
+                {
+                    continue;
+                }
+
                 if (faction == null)
                     continue;
 
